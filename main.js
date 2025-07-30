@@ -52,6 +52,7 @@ animate();
 
 const shaders = [
   { title: 'Gradient', filename: 'gradient' },
+  { title: 'Circles', filename: 'circles' },
 ];
 
 const shaderList = document.querySelector('#shader-picker ul');
