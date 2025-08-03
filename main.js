@@ -54,6 +54,7 @@ const shaders = [
   { title: 'Gradient', filename: 'gradient' },
   { title: 'Circles', filename: 'circles' },
   { title: 'Fog', filename: '2d_noise' },
+  { title: 'Spheres', filename: 'spheres' },
 ];
 
 const shaderList = document.querySelector('#shader-picker ul');
